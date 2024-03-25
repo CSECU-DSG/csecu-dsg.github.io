@@ -26,8 +26,8 @@ publishDate: 2024-02-18T02:37:00Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLLING 2024)"
-publication_short: "*LREC-COLLING 2024 **[Accepted]***"
+publication: "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)"
+publication_short: "*LREC-COLING 2024 **[Accepted]***"
 # **[On review]**
 abstract: 
 
