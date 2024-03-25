@@ -16,5 +16,5 @@ header:
 ## Datasets
 | Name | Version |Year | Publication | Download
 |:---:|:---:|:---:|:---:|:---:|
-| BengaliLCP | 1.0 | 2024 | [LREC-Coling](https://csecu-dsg.github.io/publication/) |{{< cta cta_text="Click" cta_link="./uploads/datasets/BengaliLCP.zip" cta_new_tab="true" >}} 
+| BengaliLCP | 1.0 | 2024 | [LREC-COLING](https://csecu-dsg.github.io/publication/) |{{< cta cta_text="Click" cta_link="./uploads/datasets/BengaliLCP.zip" cta_new_tab="true" >}} 
 | | | | | |
