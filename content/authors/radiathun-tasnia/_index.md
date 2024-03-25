@@ -7,7 +7,7 @@ superuser: true
 
 weight: 40
 # Role/position
-role: Research Assistant
+role: Research Assistant (full time)
 
 # Organizations/Affiliations
 organizations:
