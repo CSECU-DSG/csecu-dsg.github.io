@@ -5,7 +5,7 @@ title: Jannatun Naim
 # Is this the primary user of the site?
 superuser: true
 
-weight: 60
+weight: 6
 # Role/position
 role: Research Assistant (Full Time)
 

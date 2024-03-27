@@ -2,8 +2,7 @@
 # Display name
 title: Md. Akram Hossain
 
-weight: 10
-
+weight: 1
 # Is this the primary user of the site?
 superuser: true
 

@@ -5,7 +5,7 @@ title: Radiathun Tasnia
 # Is this the primary user of the site?
 superuser: true
 
-weight: 40
+weight: 7
 # Role/position
 role: Research Assistant (Full Time)
 

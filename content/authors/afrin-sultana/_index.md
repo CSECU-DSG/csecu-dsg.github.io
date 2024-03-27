@@ -5,7 +5,7 @@ title: Afrin Sultana
 # Is this the primary user of the site?
 superuser: true
 
-weight: 50
+weight: 8
 # Role/position
 role: Research Assistant (Full Time)
 
