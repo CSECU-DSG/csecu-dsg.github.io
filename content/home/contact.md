@@ -22,7 +22,7 @@ content:
   - icon: twitter
     icon_pack: fab
     name: Twitter
-    link: 'https://twitter.com/csecudsg'
+    link: 'https://twitter.com/CSECU_DSG'
   - icon: github
     icon_pack: fab
     name: GitHub
