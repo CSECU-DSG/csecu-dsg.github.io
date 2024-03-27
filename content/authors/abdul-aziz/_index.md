@@ -8,7 +8,7 @@ superuser: true
 # Role/position
 role: Research Assistant (Full Time)
 
-weight: 20
+weight: 2
 # Organizations/Affiliations
 organizations:
 - name: Department of Computer Science and Engineering
@@ -47,9 +47,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://azizcu.github.io/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:aziz.abdul.cu@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam

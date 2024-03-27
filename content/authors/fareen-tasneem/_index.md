@@ -5,7 +5,7 @@ title: Fareen Tasneem
 # Is this the primary user of the site?
 superuser: true
 
-weight: 10
+weight: 3
 # Role/position
 role: Research Assistant (Full Time)
 
