@@ -19,10 +19,6 @@ design:
 
 <div style="width:70%; float: left;">
 
-<center>{{< figure src="csecudsg.jpg" caption="Team Members" height="200" width="700">}}</center>
-
-CSECU-DSG is based in the Department of Computer Science and Engineering and is led by [Dr. Abu Nowshed Chy](https://cu.ac.bd/public_profile/index.php?ein=5905). We are a group of dedicated researchers working to leverage the intricacies of human language and expression to create a technologically advanced, safe, and inclusive society. Our research encompasses diverse aspects of Natural Language Processing, including: 
-
 <style>
   ul {
   position: relative;
@@ -37,8 +33,18 @@ CSECU-DSG is based in the Department of Computer Science and Engineering and is 
     left: 0;
     color: LightSeaGreen;
   }
+  /* .justify{
+    text-align: justify;
+    text-justify: auto;
+  } */
   }
 </style>
+
+<center>{{< figure src="csecudsg.jpg" caption="Team Members" height="200" width="700">}}</center>
+<p align="justify">
+CSECU-DSG is based in the Department of Computer Science and Engineering and is led by <a href="https://cu.ac.bd/public_profile/index.php?ein=5905">Dr. Abu Nowshed Chy</a>. We are a group of dedicated researchers working to leverage the intricacies of human language and expression to create a technologically advanced, safe, and inclusive society. Our research encompasses diverse aspects of Natural Language Processing, including: 
+</p>
+
 
 <ul class="bullet">
 
@@ -60,9 +66,11 @@ CSECU-DSG is based in the Department of Computer Science and Engineering and is 
   
  </ul>
 
+<p align="justify">
  This lab started its journey in 2020 and since then has had numerous achievements, including publications in reputed international journals and conferences and top honors in global competitions like CASE@EMNLP, CEREX@FIRE, CLEF, and SemEval. 
 
 Our lab fosters a cohesive, collaborative, and thriving environment: Members of the CSECU-DSG group engage in numerous internal collaborations, promoting a culture of teamwork and shared expertise. Our research also benefits from an extensive global network of collaborations. 
+</p>
 
 To learn more about CSECU-DSG, visit our [publications](publication), [projects](research), and [members’](people) websites. 
 

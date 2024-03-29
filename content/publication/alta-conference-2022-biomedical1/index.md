@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: " Australasian Language Technology Association"
-publication_short: "*ALTA-2022 **[2nd place]***"
+publication_short: '*ALTA-2022 **<span style="color:Tomato;">[2nd place]</span>***'
 # **[On review]**
 abstract: "Evidence-based medicine (EBM) is defined as making clinical decisions about individual patients based on the best available evidence. It is beneficial for making better clinical decisions, caring for patients and providing information about the therapy, prognosis, diagnosis, and other health care and clinical issues. However, it is a challenging task to build an automatic sentence classifier for EBM owing to a lack of clinical context, uncertainty in medical knowledge, difficulty in finding the best evidence, and domain-specific words in the abstract of medical articles. To address these challenges, ALTA 2022 introduced a task to build automatic sentence classifiers for EBM that can map the content of biomedical abstracts into a set of pre-defined categories. This paper presents our participation in this task where we propose a transformers based classification approach to identify the category of the content from biomedical abstracts. We perform fine-tuning on DeBERTa pre-trained transformers model to extract the contextualized features representation. Later, we employ a multi-sample dropout strategy and 5-fold cross fold training to predict more accurate class label. Experimental results show that our proposed method achieved the competitive performance among the participants."
 

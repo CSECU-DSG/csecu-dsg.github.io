@@ -21,7 +21,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 6th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Text
  (CASE@RANLP 2023)"
-publication_short: "*CASE@RANLP 2023 **[4th place]***"
+publication_short: '*CASE@RANLP 2023 **<span style="color:Tomato;">[4th place]</span>***'
 # **[On review]**
 abstract: "Cause-effect relationships play a crucial role in human cognition, and distilling cause-effect relations from text helps in ameliorating causal networks for predictive tasks including natural language-based financial forecasting, text summarization, and question-answering. However, the lack of syntactic clues, the ambivalent semantic meaning of words, and complex sentence structures make it one of the challenging tasks in NLP. To address these challenges, CASE-2023 introduced a shared task 3 with two subtasks focusing on event causality identification with causal news corpus. In this paper, we demonstrate our participant systems for this task. We leverage two transformers models including DeBERTa and Twitter-RoBERTa along with the weighted average fusion technique to tackle the challenges of subtask 1 where we need to identify whether a text belongs to either causal or not. For subtask 2 where we need to identify the cause, effect, and signal tokens from the text, we proposed a unified neural network of DeBERTa and DistilRoBERTa transformer variants with contrastive learning techniques. The experimental results showed that our proposed method achieved competitive performance among the participants’ systems and achieved 4th and 3rd rank in subtasks 1 and 2 respectively."
 

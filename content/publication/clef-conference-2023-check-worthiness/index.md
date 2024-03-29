@@ -21,7 +21,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "Conference and Labs of the Evaluation Forum
  (CLEF 2023)"
-publication_short: "*CLEF 2023 **[1st place]***"
+publication_short: '*CLEF 2023 **<span style="color:Tomato;">[1st place]</span>***'
 # **[On review]**
 abstract: "Check-worthiness is identifying verifiable factual claims present or not in content. It might be beneficial to automatically verify the political discourses, social media posts, and newspaper content. However, the multifaceted nature and hidden meaning of the content make it difficult to automatically identify the factual claims. To address these challenges, CheckThat! 2023 introduced a task to build automatic Check-worthiness classifiers in tweets with multimodal and multigenre settings. This paper presented our participation in CheckThat! 2023 Task 1. We perform fine-tuning on language-specific and vision pretrained transformer models to extract the visual-contextualized or contextualized features representation for the multimodal and multigenre check-worthiness task. We add a BiLSTM layer on top of the contextual features and concatenate it with the other visual or contextualized features to get an enrich unified representation. Later, we employ a multi-sample dropout strategy to predict a more accurate class label. Experimental results show that our proposed method achieved competitive performance among the participants and obtained 1st place in the multimodal Arabic check-worthiness task."
 

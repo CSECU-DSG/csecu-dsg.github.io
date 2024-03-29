@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Forum for Information Retrieval Evaluation"
-publication_short: "*FIRE 2020 **[1st place]***"
+publication_short: '*FIRE 2020 **<span style="color:Tomato;">[1st place]</span>***'
 # **[On review]**
 abstract: "Cause-effect relation extraction is the problem of detecting causal relations expressed in a text. The extraction of causal-relations from texts might be beneficial for the improvement of various natural language processing (NLP) tasks including Q/A, text-summarization, opinion mining, and event analysis. However, cause-effect relation in the text is sparse, ambiguous, sometimes implicit, and has a linguistically complex construct. To address these challenges FIRE-2020 introduced a shared task focusing on cause-effect relation extraction (CEREX). We propose a feature based supervised classification model with a naive rule-based classifier. We define a set of rules based on a causal connective dictionary and stop-words. Besides, we use a fusion of hand-crafted features and transfer learning embeddings to train our SVM based supervised classification model. Experimental results exhibit that our proposed method achieved the topnotch performance for cause-effect relation extraction and causal word annotation."
 

@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)"
 publication_short: "*LREC-COLING 2024 **[Accepted]***"
 # **[On review]**
-abstract: 
+abstract: Encountering intricate or ambiguous terms within a sentence produces distress for the reader during comprehension. Lexical Complexity Prediction (LCP) deals with predicting the complexity score of a word or a phrase considering its context. This task poses several challenges including ambiguity, context sensitivity, and subjectivity in perceiving complexity. Despite having 300 million native speakers and ranking as the seventh most spoken language in the world, Bengali falls behind in the research on lexical complexity when compared to other languages. To bridge this gap, we introduce the first annotated Bengali dataset, that assists in performing the task of LCP in this language. Besides, we propose a transformer-based deep neural approach with a pairwise multi-head attention mechanism and LSTM model to predict the lexical complexity of Bengali tokens. The outcomes demonstrate that the proposed neural approach outperformed the existing state-of-the-art models for the Bengali language.
 
 # Summary. An optional shortened abstract.
 summary: ""
