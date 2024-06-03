@@ -46,7 +46,7 @@ interests:
 social:
  - icon: globe
    icon_pack: fas
-   link: https://colabrun1234.wixsite.com/thresume
+   link: https://tashinhoss.github.io/
  - icon: envelope
    icon_pack: fas
    link: 'mailto:tashin.cse@std.cu.ac.bd'
@@ -62,9 +62,9 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/abdullah-barayan-056861102/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/tashin-hossain-1b8814160/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
